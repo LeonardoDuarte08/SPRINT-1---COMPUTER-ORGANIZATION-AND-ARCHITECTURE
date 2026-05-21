@@ -116,7 +116,7 @@ Esse modelo melhora:
 ---
 
 # Código Assembly (Exemplo bem simples que fizemos)
-
+```assembly
 lw t0, 0x00(a0)      ; leitura do sensor
 add s0, s0, t0       ; soma demanda
 addi s1, s1, 1       ; conta carregadores
