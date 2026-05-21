@@ -93,19 +93,19 @@ O projeto utiliza conceitos de:
 
 O pipeline organiza a execução das instruções em etapas:
 
-1. Fetch
+1. Fetch: 
 O processador busca a próxima instrução na memória.
 
-2. Decode
+2. Decode: 
 A instrução é interpretada para identificar qual operação deve ser executada.
 
-3. Execute
+3. Execute: 
 A operação lógica ou aritmética é realizada pelo processador.
 
-4. Memory Access
+4. Memory Access: 
 O sistema acessa dados necessários na memória, caso necessário.
 
-5. Write Back
+5. Write Back: 
 O resultado da operação é armazenado nos registradores.
 
 Esse modelo melhora:
